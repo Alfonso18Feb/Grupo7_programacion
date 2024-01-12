@@ -30,7 +30,7 @@
 ***Esta rana esta atrapa en un laberinto lleno de minas (*), muro (#) y túneles bidireccionales. La rana intenta salir del laberinto por las salidas (%) proporcionadas.**
 **Tú el usuario puede crear su propio laberinto para que nuestra querida rana pueda salir sana y salva. El programa te pedirá la dimensión del laberinto nxm y cuantos túneles bidireccionales. Después fila por fila tienes que ir dibujando tu laberinto. Al final, tienes que poner las coordenadas de los túneles y ya está.***
 **La cosa que más mola es que el programa te proporciona con un estimado en porcentaje que nuestro amigo Alfred pueda salir sana y salva del Laberinto.**
-*** Disfruten de vuestra aventura con nuestra hermosa rana Alfred***
+***Disfruten de vuestra aventura con nuestra hermosa rana Alfred***
 
 *Ejemplo de como se juega:*
 
